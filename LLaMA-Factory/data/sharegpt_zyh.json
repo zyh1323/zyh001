@@ -1,0 +1,44 @@
+[
+    {
+        "conversations":[
+            {
+                "from": "human",
+                "value": "法国的首都是什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "法国的首都是巴黎。"
+            },
+            {
+                "from": "human",
+                "value": "你能告诉我关于巴黎的一些信息吗？"
+            },
+            {
+                "from": "gpt",
+                "value": "巴黎是一座历史悠久的城市，很发达。"
+            }
+        ]
+
+    },
+    {
+        "conversations":[
+            {
+                "from": "human",
+                "value": "法国的首都是什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "法国的首都是巴黎。"
+            },
+            {
+                "from": "human",
+                "value": "你能告诉我关于巴黎的一些信息吗？"
+            },
+            {
+                "from": "gpt",
+                "value": "巴黎是一座历史悠久的城市，很发达。"
+            }
+        ]
+
+    }
+]

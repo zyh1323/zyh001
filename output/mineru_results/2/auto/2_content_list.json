@@ -1,0 +1,57 @@
+[
+    {
+        "type": "text",
+        "text": "检索增强生成",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "No RAG ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a930e78b07c9bc1b26a2b655d0af39ea7a999a101c4a9db800f8ebea710e8efe.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RAG技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1：文本分割，将长文档分割为一段一段的小文本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2：文本嵌入，将每个小文本转化为向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3：相似度计算，语义相近的两个文本向量的点积更小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4：问题和回复拼接，将与问题更相近的文本进行拼接，一起输送给模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相似度计算(找到与问题相似度最高的文本块)",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/12588407214b20e2f4c3725d1cf273add1527a9ddae36b5f4ffa00feb2475deb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 1
+    }
+]
